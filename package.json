@@ -1,27 +1,18 @@
 {
-  "name": "todolistapi",
+  "name": "RestFulAPI",
   "version": "1.0.0",
-  "description": "RESTful todoListApi",
+  "description": "RESTful Api",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "nodemon server.js"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/generalgmt/RESTfulAPITutorial.git"
   },
   "keywords": [
     "RESTful",
     "API",
     "Tutorial"
   ],
-  "author": "olatunde garuba",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/generalgmt/RESTfulAPITutorial/issues"
-  },
-  "homepage": "https://github.com/generalgmt/RESTfulAPITutorial#readme",
+  "author": "Ishwarya",
   "devDependencies": {
     "nodemon": "^1.11.0"
   },

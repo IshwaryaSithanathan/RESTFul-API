@@ -1,4 +1,4 @@
-## Nodejs in 10 minutes
+## RESTFul API project
 
 clone the project
 
@@ -8,5 +8,3 @@ clone the project
 ### Run
 
 * npm run start
-
-:)
